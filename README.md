@@ -1,0 +1,1 @@
+This code assignment serves to demonstrate my proficiency in Object-Oriented Programming (OOP). I have developed a basic library application that applies fundamental OOP concepts. The implementation consists of three classes: Book, Library, and Main. These classes ensure a cohesive interaction and logical flow within the application.
